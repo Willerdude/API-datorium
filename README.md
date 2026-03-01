@@ -1,4 +1,4 @@
 # Datorium skolēnu API
-( Gustavs Ozols, Luīze Circene, Linda Rame, Kirills Fendins)
+( Gustavs Ozols, Luīze Circene, Linda Rame, Kirills Fendins) no Ulbrokas Vidusskolas
 
 VIDEO:
